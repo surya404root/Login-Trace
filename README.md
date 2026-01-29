@@ -1,5 +1,5 @@
 # Login-Trace
-Advanced OSINT Email Footprint Scanner for Termux &amp; Linux
+Advanced OSINT Email Footprint Scanner for Termux & Linux
 
 Login-Trace is a powerful tool for gathering publicly available information about email accounts. 
 
