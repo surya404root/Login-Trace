@@ -28,7 +28,7 @@ cd Login-Trace
 ### 2️⃣ Install dependencies:
 ```
 pkg install python -y
-pip install -r requirements.txt
+pip install requests rich
 ```
 
 ### 3️⃣ Make the script executable (optional):
